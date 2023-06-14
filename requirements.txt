@@ -1,0 +1,11 @@
+requests
+jupyter
+# PDF 라이브러리
+pypdf2
+pdfplumber
+PyMuPDF
+camelot-py[cv]
+tabula-py
+
+pandas
+konlpy
