@@ -1,0 +1,34 @@
+
+# Install Guiding
+# Python 3.8.10
+
+numpy 
+pandas 
+matplotlib 
+seaborn
+bokeh
+pydotplus 
+h5py 
+scikit-learn
+pydot
+scipy 
+libpython
+ujson
+tqdm
+wordcloud
+gensim
+openpyxl
+nltk
+wikiextractor
+seqeval
+konlpy
+ipykernel
+jupyter
+tensorflow
+keras
+keras-crf
+sentencepiece
+tokenizers
+tensorflow_datasets
+transformers
+sentence_transformers
