@@ -7,5 +7,10 @@ PyMuPDF
 camelot-py[cv]
 tabula-py
 
+numpy
 pandas
 konlpy
+
+matplotlib
+seaborn
+bokeh
