@@ -24,11 +24,11 @@ seqeval
 konlpy
 ipykernel
 jupyter
-tensorflow
-keras
-keras-crf
-sentencepiece
-tokenizers
-tensorflow_datasets
-transformers
-sentence_transformers
+# tensorflow
+# keras
+# keras-crf
+# sentencepiece
+# tokenizers
+# tensorflow_datasets
+# transformers
+# sentence_transformers
