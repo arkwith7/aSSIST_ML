@@ -1,7 +1,6 @@
 
 # Install Guiding
 # Python 3.8.10
-
 numpy 
 pandas 
 matplotlib 
@@ -25,6 +24,8 @@ seqeval
 konlpy
 ipykernel
 jupyter
+selenium
+BeautifulSoup
 # tensorflow
 # keras
 # keras-crf
